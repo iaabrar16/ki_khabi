@@ -1,8 +1,6 @@
-# Ki khabi?
+# Project Title
 
-[Watch the video](media/project.MOV)
+![Project Preview]
 
-<video width="320" height="240" controls>
-  <source src="media/project.MOV" type="video/MOV">
-  Your browser does not support the video tag.
-</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
